@@ -1,0 +1,52 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "SIMPLI",
+            "description": "HTML,CSS, SASS",
+            "url": "https://deniseschirmer.github.io/simpli-faxinas/"
+        },
+        {
+            "cover": "/portfolio/1/backpacking.png",
+            "title": "BACKPACKING",
+            "description": "HTML,CSS, SASS",
+            "url": "https://deniseschirmer.github.io/layout-backpacking/"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "FILMES",
+            "description": "REACT",
+            "url": "https://the-great-deniseschirmer-site.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "SLIDE",
+            "description": "HTML,CSS, JAVASCRIPT",
+            "url": "https://deniseschirmer.github.io/slide/"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        }
+    ]
+}
