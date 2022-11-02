@@ -1,7 +1,5 @@
 import './index.scss'
 import { useState } from 'react';
-// import LogoS from '../../assets/images/logo-d.png';
-// import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
@@ -67,8 +65,7 @@ const Sidebar = () => {
           <a
             href="https://www.linkedin.com/in/denise-s-lima-schirmer-9702661ba/"
             target="_blank"
-            rel="noreferrer"
-          >
+            rel="noreferrer">
             <FontAwesomeIcon
               icon={faLinkedin}
               color="#4d4d4e"
