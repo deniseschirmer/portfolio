@@ -74,8 +74,8 @@
       white-space: nowrap;
   
       &:hover {
-        background: #080808;
-        color: #333;
+        background: #334d56;
+        color: #ffd700;
       }
     }
   }
@@ -103,24 +103,12 @@
       margin: 20px auto 0 auto;
       width: 124px;
     }
-  
-    // .logo-container {
-    //   position: relative;
-    //   width: 100px;
-    //   height: auto;
-    //   top: 50px;
-    //   right: 0;
-    //   box-sizing: border-box;
-    //   margin: auto;
+    // .logo-container svg {
+    //   position: absolute;
+    //   top: auto;
+    //   right: auto;
+    //   bottom: auto;
     //   left: 0;
+    //   margin: auto;
     // }
-  
-    .logo-container svg {
-      position: absolute;
-      top: auto;
-      right: auto;
-      bottom: auto;
-      left: 0;
-      margin: auto;
-    }
   }
