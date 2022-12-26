@@ -20,14 +20,14 @@ const Sidebar = () => {
 
   return (
     <div className="nav-bar">
-      <Link 
+      {/* <Link 
         className="logo"
         to="/"
         onClick={() => setShowNav(false)}>
-      </Link>
+      </Link> */}
       <nav className={showNav ? 'mobile-show' : ''}>
         <NavLink 
-          exact="true"
+          // exact="true"
           activeclassname="active"
           to="/"
           onClick={() => setShowNav(false)}>
